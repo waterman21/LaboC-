@@ -1,0 +1,12 @@
+C:\Wrkfldr\labo C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe.config
+C:\Wrkfldr\labo C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe
+C:\Wrkfldr\labo C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.pdb
+C:\Wrkfldr\labo C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.csprojResolveAssemblyReference.cache
+C:\Wrkfldr\labo C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.exe
+C:\Wrkfldr\labo C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.pdb
+C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe.config
+C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.exe
+C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.pdb
+C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.csprojResolveAssemblyReference.cache
+C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe
+C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.pdb

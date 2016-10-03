@@ -89,7 +89,19 @@ namespace ConsoleApplicationLabo1
             IEnumerable<Pupil> listPupilsNoDuplicated = lstPupilsDuplicated.Distinct<Pupil>(new PersonComparer());
 
             Console.WriteLine(listPupilsNoDuplicated.Count());
-           
+
+
+            Pupil pupilActComp = new Pupil("Pierre",7);
+            pupilActComp.AddActivity(act1);
+            pupilActComp.AddActivity(act2);
+
+            System.Console.WriteLine(pupilActComp.PrintPupilActivityCompulsory(
+                    delegate (Activity activity)
+                    {
+                        return activity.Title +"\n";
+                     }));
+
+
             System.Console.Read();
         }
     }

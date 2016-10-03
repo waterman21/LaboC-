@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplicationLabo1
 {
-    class Person
+    public class Person
     {
         private int age;
 

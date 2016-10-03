@@ -10,3 +10,6 @@ C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleA
 C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.csprojResolveAssemblyReference.cache
 C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe
 C:\Wrkfldr\C#\ConsoleApplicationLabo1\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.pdb
+C:\Users\etu23543\Source\Repos\LaboC-\ConsoleApplicationLabo1\bin\Debug\ConsoleApplicationLabo1.exe.config
+C:\Users\etu23543\Source\Repos\LaboC-\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.exe
+C:\Users\etu23543\Source\Repos\LaboC-\ConsoleApplicationLabo1\obj\Debug\ConsoleApplicationLabo1.pdb

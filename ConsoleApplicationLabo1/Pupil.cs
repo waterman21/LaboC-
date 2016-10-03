@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplicationLabo1
 {
-    class Pupil : Person
+    public class Pupil : Person 
     {
         //grade (int) + tabeEval : char[10]
 
         private List<Activity> lstActivities;
+
+        public delegate string DelegatePrintActivityCompulsory(Activity activity);
 
         public int Grade { get; set; }
 
@@ -76,6 +78,16 @@ namespace ConsoleApplicationLabo1
                     pupilEvaluations[i] = evaluation;
                 }
             }
+        }
+
+        public string PrintPupilActivityCompulsory(DelegatePrintActivityCompulsory MyPrintActivity)
+        {
+            int numAct = 0;
+            string ch = base.ToString() + " a choisi les activités obligatoires : \n";
+            foreach (Activity activity in LstActivities)
+                if (activity.Compulsory)
+                    ch += (++numAct) + " " + MyPrintActivity(activity);
+            return ch;
         }
     }
 }

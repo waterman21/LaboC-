@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplicationLabo1
 {
-    class Activity
+    public class Activity
     {
         private String title;
 
